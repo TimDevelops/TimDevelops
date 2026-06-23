@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi
 
 <!--
 **TimDevelops/TimDevelops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## working on learning Cloud
-## this involves diving deep into Linux
-## I'll update with more info later
+## My name is Tim and I'm learning to Cloud.
