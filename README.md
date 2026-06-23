@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## My name is Tim and I'm learning to Cloud.
+## Update 1: Pushing from my terminal. 
