@@ -1,4 +1,4 @@
-## Hi
+## Hi there!
 
 <!--
 **TimDevelops/TimDevelops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,11 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## My name is Tim and I'm currently an enterprise SysAdmin.
-## I've got about 5 years in the tech industry and really love learning new concepts.
+## My name is Tim. 
+## I'm 29 years old and have 5 years in the tech industry.
+## I'm currently an enterprise SysAdmin and love learning new concepts.
 ## I've dabbled in Web Development but decided to focus on Operations, as that is where I'm truly passionate.
-## My current role is more traditional SysAdmin so my goal is learn more modern technologies to better my skillset.
+## My current role is more of a traditional SysAdmin so my goal is learn more modern technologies to better my skillset.
 ## So far, I'm really enjoying deep diving into Linux and learning Cloud tech.
 
 ## Update 1: Pushing from my terminal. 
 ## Update 2: It was succesful! Here's my 2nd push.
+## Update 3: Edited some of my about me.
