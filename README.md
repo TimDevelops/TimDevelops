@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## working on learning Cloud
+## this involves diving deep into Linux
+## I'll update with more info later
