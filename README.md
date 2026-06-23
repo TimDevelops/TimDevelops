@@ -20,7 +20,3 @@ Here are some ideas to get you started:
 ## I've dabbled in Web Development but decided to focus on Operations, as that is where I'm truly passionate.
 ## My current role is more of a traditional SysAdmin so my goal is learn more modern technologies to better my skillset.
 ## So far, I'm really enjoying deep diving into Linux and learning Cloud tech.
-
-## Update 1: Pushing from my terminal. 
-## Update 2: It was succesful! Here's my 2nd push.
-## Update 3: Edited some of my about me.
